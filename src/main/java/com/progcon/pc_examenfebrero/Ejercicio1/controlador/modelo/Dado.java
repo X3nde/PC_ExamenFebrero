@@ -1,4 +1,4 @@
-package com.progcon.pc_examenfebrero.modelo;
+package com.progcon.pc_examenfebrero.Ejercicio1.controlador.modelo;
 
 import java.util.Random;
 
