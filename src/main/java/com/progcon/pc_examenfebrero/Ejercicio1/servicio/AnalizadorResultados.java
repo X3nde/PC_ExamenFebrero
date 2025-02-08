@@ -1,4 +1,4 @@
-package com.progcon.pc_examenfebrero.Ejercicio1.controlador.servicio;
+package com.progcon.pc_examenfebrero.Ejercicio1.servicio;
 
 import java.util.List;
 import java.util.stream.Collectors;

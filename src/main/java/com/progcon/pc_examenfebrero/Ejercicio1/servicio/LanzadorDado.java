@@ -1,7 +1,7 @@
-package com.progcon.pc_examenfebrero.Ejercicio1.controlador.servicio;
+package com.progcon.pc_examenfebrero.Ejercicio1.servicio;
 
-import com.progcon.pc_examenfebrero.Ejercicio1.controlador.modelo.Dado;
-import com.progcon.pc_examenfebrero.Ejercicio1.controlador.modelo.CondicionEspecial;
+import com.progcon.pc_examenfebrero.Ejercicio1.modelo.Dado;
+import com.progcon.pc_examenfebrero.Ejercicio1.modelo.CondicionEspecial;
 
 public class LanzadorDado implements Runnable {
     private final Dado dado;
